@@ -1,0 +1,108 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.container{
+  width: 1080px;
+  height: 750px;
+  border-radius: 2%;
+  background-color: rgba(0, 0, 0, 0.56);
+  margin: auto;
+  margin-top: 40px;
+}
+
+header{
+  margin: auto;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.logo{
+  width: 250px;
+  margin: auto;
+  display: inline-block;
+  text-align: center;
+}
+
+.nomeazienda{
+  color: rgb(0, 221, 0);
+  margin: auto;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.barraprenotazioni{
+  width: 850px;
+  height: 30px;
+  background-color: rgb(0, 221, 0);
+  margin: auto;
+  text-align: center;
+  padding-top: 5px;
+}
+
+button {
+  font-size: 13px;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+  padding: 1px 5px;
+  cursor: pointer;
+  border: 2px solid black;
+  width: 190px;
+  margin: auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+main{
+  width: 710px;
+  margin-top: 10px;
+  margin-left: 115px;
+  margin-right: 115px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.monopattino{
+  color: white;
+  display: block;
+  font-size: 12px;
+}
+
+.checkbox{
+  display: inline;
+  width: 12px;
+  height: 12px;
+}
+
+h3{
+  display: inline;
+  font-size: 23px;
+}
+
+p{
+font-size: 15px;
+margin: 0;
+}
+
+.barra-gino22{
+  width: 300px;
+  height: 28px;
+  background-color: rgb(245, 180, 83);
+  border-radius: 4px;
+}
+
+.barra-mike24{
+  width: 500px;
+  height: 28px;
+  background-color: rgb(30, 195, 30);
+  border-radius: 4px;
+}
+
+.barra-fede154{
+  width: 150px;
+  height: 28px;
+  background-color: rgb(190, 65, 65);
+  border-radius: 4px;
+}
